@@ -4,20 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulmujeeb4ahmed.abdulmujeeb4ahmed&"  />
-</div>
-
-###
-
 <h1 align="center">Hello World! 👋</h1>
 
 ###
@@ -26,7 +12,7 @@
 
 ###
 
-<p align="center">I'm AbdulMujeeb Ahmed from Atlanta, GA.<br><br>- 🔭 I’m currently pursuing my Bachelor's of Science at Georgia State University!<br><br>- 📚 I'm currently learning how to use WordPress and make my own website for my Pressure Washing company called Blastain Power Washing!<br><br>- ⚡ In my free time I enjoy pressure washing and working on my business. I also enjoy playing basketball and meeting new people!</p>
+<p align="center">My name is AbdulMujeeb Ahmed and I am from Atlanta, GA.<br><br>- 🔭 I’m currently pursuing my Bachelor's of Science at Georgia State University!<br><br>- 📚 I'm currently learning how to use WordPress and make my own website for my Pressure Washing company called Blastain Power Washing!<br><br>- ⚡ In my free time I enjoy pressure washing and working on my business. I also enjoy playing basketball and meeting new people!</p>
 
 ###
 
@@ -70,7 +56,19 @@
 
 ###
 
-<h2 align="center">🔥   My Stats :</h2>
+<h2 align="center">🤝 Connect With Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdulmujeeb-ahmed/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="center">🔥 My Stats:</h2>
 
 ###
 
